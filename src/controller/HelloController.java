@@ -21,6 +21,7 @@ public class HelloController extends Controller {
         if(user != null)  
             render("/html/hello.html");  
         /*哈哈哈...GitHub提交成功了*/
-        /*哈哈哈...GitHub再次提交ss了*/
+        /*哈哈哈...GitHub再次提交了*/
+        /*哈哈哈...GitHub第三次提交*/
     }  
 }  
