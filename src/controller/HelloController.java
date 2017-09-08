@@ -20,7 +20,6 @@ public class HelloController extends Controller {
           
         if(user != null)  
             render("/html/hello.html");  
-          
-          
+        /*哈哈哈...GitHub提交成功了*/
     }  
 }  
